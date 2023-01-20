@@ -98,3 +98,20 @@ main{
     font-size: 18px;
     margin-bottom: 30px;
 }
+
+.about-info-containar{
+    display: flex;
+    justify-content: space-around;
+}
+
+.info-title{
+    color: #757575;
+    font-size: 20px;
+}
+
+.info-descripition{
+    color: #474747;
+    font-size: 20px;
+    font-weight: 700;
+
+}
