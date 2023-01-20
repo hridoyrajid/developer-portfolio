@@ -80,10 +80,11 @@ main {
 }
 
 /* abour Section Style */
-
-.about {
+section{
     text-align: center;
     margin-top: 130px;
+}
+.about {
     background: #FFF8F3;
     border-radius: 10px;
     padding: 130px 150px;
@@ -93,7 +94,7 @@ main {
     text-align: center;
     font-weight: 700;
     font-size: 35px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 
 .section-discription {
@@ -154,3 +155,6 @@ main {
     font-size: 16px;
     color: #757575;
 }
+
+/* Resume styles */
+
