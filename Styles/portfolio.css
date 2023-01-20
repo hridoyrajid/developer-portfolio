@@ -80,11 +80,13 @@ main {
 }
 
 /* abour Section Style */
-section{
-    text-align: center;
+section {
+    
     margin-top: 130px;
 }
+
 .about {
+    text-align: center;
     background: #FFF8F3;
     border-radius: 10px;
     padding: 130px 150px;
@@ -123,7 +125,7 @@ section{
 /*  What i do Styles*/
 .what-i-do {}
 
-.what-i-do-description{
+.what-i-do-description {
     text-align: center;
     font-size: 16px;
     color: #757575;
@@ -158,3 +160,34 @@ section{
 
 /* Resume styles */
 
+.resume-contain {
+    display: flex;
+    gap: 24px;
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.resume .title {
+    color: #474747;
+    font-weight: 700;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.resume .sub-title {
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.resume .description {
+    color: #757575;
+}
+
+.cv-button{
+    margin-top: 50px;
+    text-align: center;
+}
