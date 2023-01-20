@@ -70,3 +70,31 @@ nav li {
     color: #757575;
     margin-bottom: 30px;
 }
+
+/* Main Section */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+/* abour Section Style */
+
+.about{
+    text-align: center;
+    margin-top: 130px;
+    background: #FFF8F3;
+    border-radius: 10px;
+    padding: 130px 150px;
+}
+
+.section-title{
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+
+.section-discription{
+    color: #757575;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
